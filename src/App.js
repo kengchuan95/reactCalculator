@@ -1,4 +1,6 @@
 
+//this is a basic calculator making use of react.
+//inspiration and logical choices made following https://github.com/WebDevSimplified/react-calculator/blob/main/src/App.js
 import { useReducer } from 'react';
 import DigitButton from "./DigitButton"
 import OperationButton from "./OperationButton"
