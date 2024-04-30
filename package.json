@@ -1,8 +1,8 @@
 {
   "name": "reactcalculator",
   "version": "0.1.0",
+  "homepage": "./reactcalculator",
   "private": true,
-  "homepage": "https://kengchuan95.github.io/reactcalculator",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
